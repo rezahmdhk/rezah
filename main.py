@@ -16,7 +16,7 @@ import hashlib
 import os
 
 # ========== تنظیمات ==========
-BOT_TOKEN = "8308823116:AAE1Ce7rnfiGDLXTMUi-UPpCWasAo-huIQo"
+BOT_TOKEN = "8810741889:AAEjL5vlgL0mxZeAmRGWtDuU7kKFCKwJQ2M"
 ADMIN_IDS = [8680457924]
 bot = telebot.TeleBot(BOT_TOKEN)
 
